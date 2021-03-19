@@ -1,0 +1,14 @@
+{
+  "name": "xrpl-onchain-data",
+  "version": "1.0.0",
+  "description": "Store & fetch data on the XRPL",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wietse Wind <hi@wietse.com>",
+  "license": "ISC",
+  "dependencies": {
+    "rippled-ws-client": "^1.6.4",
+    "rippled-ws-client-sign": "^0.3.0"
+  }
+}
